@@ -1,7 +1,7 @@
 {
   "stage": 1,
-  "test_accuracy": 0.8981,
+  "test_accuracy": 0.9161,
   "threshold_70_met": true,
-  "random_seed": 42,
-  "timestamp": "2026-04-05T14:32:44.680630"
+  "random_seed": 1,
+  "timestamp": "2026-04-09T17:36:48.015589"
 }
